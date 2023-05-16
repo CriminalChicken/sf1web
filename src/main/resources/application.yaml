@@ -1,0 +1,8 @@
+static:
+  users:
+    - email: "one@gmail.com"
+      password: "12345"
+    - email: "two@gmail.com"
+      password: "67890"
+    - email: "oliver@zenger.org"
+      password: "test"
